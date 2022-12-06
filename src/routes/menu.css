@@ -1,0 +1,57 @@
+.fruit img{
+    height: auto;
+    width: 10vw;
+    
+
+}
+.fruit2 img{
+    height: auto;
+    width: 10vw;
+
+    
+}
+.fruit3 img{
+    height: auto;
+    width: 10vw;
+
+    
+}
+
+.left-side {
+    height: 2000px;
+    width: 60%;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.ingredients {
+    color: white;
+    font-family: 'Passion One', cursive;
+    font-size:  1vw;
+    line-height: 1;
+    text-align:left;
+    padding-left: 15%;
+    font-weight: lighter;
+    
+}
+
+.iheading {
+    color: #91c2a5;
+    font-size:  2.2vw;
+    text-decoration: underline;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.ingredients2 {
+    color: white;
+    font-family: 'Passion One', cursive;
+    font-size:  1.5vw;
+    line-height: 1;
+    text-align:left;
+    font-weight: lighter;
+    
+}

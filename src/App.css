@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+body {
+    background-color: black;
+    margin: 0px;
+  }
+
+.App {
+  color: rgb(96, 201, 96);
+  text-align: center;
+}
+
+  .navbar {
+    display: flex ;
+    justify-content: space-around;
+    height: 200px;
+    background: black;
+    font-family: 'Passion One', cursive;
+    align-items: center;
+  
+  }
+  
+  .rightside {
+    display: flex;
+    float: right;
+    text-decoration: none;
+    
+  
+  }
+
+
+.click a {
+  text-decoration: none;
+  color: white;
+
+}
+  
+  .click {
+    font-family: 'Passion One', cursive;
+    float: right;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 14px 20px;
+    font-size: 2.5vw;
+    margin-top: 1rem;
+    text-decoration: none;
+    
+  }
+  
+  .click:hover {
+    background-color: #91c2a5;
+    color: white;
+  }
+  
+  .button-solid {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    text-decoration: none;
+  }
+    
+  .button-solid:focus {
+    border: none;
+    outline: none;
+    text-decoration: none;
+  }
+
+  
+  .leftside {
+    float: left;
+    height: 169px;
+    text-decoration: none;
+    margin-top: 1%;
+    /* width:20%; */
+  }
+
+  .logo {
+    content: url(/public/logo.png);
+    height: 8vw;
+    display: block;
+    margin-left: 25px;
+    margin-top: 25px;
+  }
+
+.heading {
+  font-family: 'Passion One', cursive;
+  color: white;
+  text-align: center;
+  font-size:  5vw;
+
+}
+
+.sub-heading {
+  font-family: 'Passion One', cursive;
+  color: #91c2a5;
+  text-align: center;
+  font-size:  3vw;
+  line-height: 0.2;
+  
+}
+
+.mid-page-icons {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 5%;
+  padding: 5px;
+  justify-content: center;
+
+}
+
+.mid-page-icons img{
+ height: 60%;
+ width: 70%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+
+
+.icon-title1 {
+  display:block;
+  font-family: 'Passion One', cursive;
+  color: #91c2a5;
+  flex-direction: column;
+  text-align: center;
+  font-size:  3vw;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.icons {
+  display: flex;
+}

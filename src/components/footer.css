@@ -1,0 +1,82 @@
+.footer {
+    background-color: #d9d9d9;
+    height: 12vw;
+  }
+
+.footer h2 {
+  padding:5rem;
+}
+  
+  .left-footer {
+    font-family: 'Passion One', cursive;
+    color: black;
+    float: left;
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+
+  .right-footer {
+    font-family: 'Passion One', cursive;
+    color: black;
+    float: right;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .left-img {
+    content: url(pictures/insta.png);
+    height: 5vw;
+    display: block;
+    float: right;
+  }
+
+  .right-img {
+    content: url(pictures/facebook.png);
+    height: 5vw;
+    display: block;
+    float: right;
+
+  } 
+
+  .text {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 1vw;
+  }
+
+  .link-text-left {
+    float:left;
+    padding: 0 3%;
+    text-align: center;
+    justify-content: center;
+    font-size: 1vw;
+  }
+
+  .link-text-right {
+    float:right;
+    padding: 0 3%;
+    text-align: center;
+    justify-content: center;
+    font-size: 1vw;
+  }
+
+  .img-and-text-left {
+    float: left;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .img-and-text-right {
+    float: right;
+    width: 50vw ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
