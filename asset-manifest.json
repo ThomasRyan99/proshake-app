@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/proshake-app/static/css/main.8df50cf0.css",
+    "main.js": "/proshake-app/static/js/main.891fc59f.js",
+    "static/media/mangopassion.png": "/proshake-app/static/media/mangopassion.ff53fdf14a04c3ca79f8.png",
+    "static/media/strawberrycream.png": "/proshake-app/static/media/strawberrycream.7da3d8b536d55a668d65.png",
+    "static/media/chocolate.png": "/proshake-app/static/media/chocolate.1aee6050f5b5346cbb8d.png",
+    "static/media/coconut.png": "/proshake-app/static/media/coconut.5e5f4336fec785fae62b.png",
+    "static/media/apple.png": "/proshake-app/static/media/apple.39dc556df1837fe996c7.png",
+    "static/media/pineapple.png": "/proshake-app/static/media/pineapple.8a3355557bc139b35724.png",
+    "static/media/strawberry.png": "/proshake-app/static/media/strawberry.4367e94ed1e10032619c.png",
+    "static/media/gym.png": "/proshake-app/static/media/gym.8609232756e51e53770b.png",
+    "static/media/logo.png": "/proshake-app/static/media/logo.cd1314632e2b77b6dbd0.png",
+    "static/media/insta.png": "/proshake-app/static/media/insta.dcf583b3537c01f54490.png",
+    "static/media/wheat.png": "/proshake-app/static/media/wheat.4fcadbe15c2086a62e53.png",
+    "index.html": "/proshake-app/index.html",
+    "main.8df50cf0.css.map": "/proshake-app/static/css/main.8df50cf0.css.map",
+    "main.891fc59f.js.map": "/proshake-app/static/js/main.891fc59f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8df50cf0.css",
+    "static/js/main.891fc59f.js"
+  ]
+}
